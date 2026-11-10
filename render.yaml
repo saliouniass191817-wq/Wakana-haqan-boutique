@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: voltia-boutique
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
